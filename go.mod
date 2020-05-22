@@ -1,4 +1,4 @@
-module projects/go-module-test
+module github.com/legnat/go-module-test
 
 go 1.12
 
